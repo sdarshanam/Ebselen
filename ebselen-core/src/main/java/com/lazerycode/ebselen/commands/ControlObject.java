@@ -16,8 +16,8 @@
 
 package com.lazerycode.ebselen.commands;
 
-import org.openqa.selenium.Keyboard;
-import org.openqa.selenium.Mouse;
+import org.openqa.selenium.interactions.Keyboard;
+import org.openqa.selenium.interactions.Mouse;
 
 /**
  * Created by IntelliJ IDEA.
